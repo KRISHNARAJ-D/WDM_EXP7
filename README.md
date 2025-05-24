@@ -27,7 +27,7 @@ in a network of web pages based on the structure of the links between them.
     <p>    Visualize using bar chart to represent authority and hub scores.
 
 ### Program:
-**Developed By: ARSHATHA P - 212222230012**
+**Developed By: KRISHNARAJ D 212222230070**
 ##### Importing Libraries
 ```python
 import numpy as np
